@@ -34,7 +34,7 @@ cmd({
 cmd({
     pattern: 'tagall',
     alias: ['mentionall'],
-    desc: 'Tag all group members',
+    desc: 'Sortez dev shadow vous a besoin',
     category: 'group',
     react: '📢'
 }, async (conn, mek, m, { from, isGroup, isBotAdmins, isAdmins, isOwner, participants, args, reply }) => {
