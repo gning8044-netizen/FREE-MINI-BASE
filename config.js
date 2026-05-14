@@ -18,9 +18,9 @@ module.exports = {
     // 2. INFORMATIONS DU BOT
     // ===========================================================
     PREFIX: process.env.PREFIX || '.',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || 'your number', // Mettez votre numéro ici
-    BOT_NAME: "YOUR BOT NAME",
-    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '221767833987', // Mettez votre numéro ici
+    BOT_NAME: "DEV SHADOW",
+    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ dev shadow tech',
     
     // Mode de travail : public, private, group, inbox
     WORK_TYPE: process.env.WORK_TYPE || "public", 
@@ -52,7 +52,7 @@ module.exports = {
     WELCOME_IMAGE: process.env.WELCOME_IMAGE || null, 
     GOODBYE_IMAGE: process.env.GOODBYE_IMAGE || null,
     
-    GROUP_INVITE_LINK: process.env.GROUP_INVITE_LINK || 'your group url ',
+    GROUP_INVITE_LINK: process.env.GROUP_INVITE_LINK || 'https://chat.whatsapp.com/KE4mzWDs1HzJSogSSDRxxV?mode=gi_t ',
     
     // ===========================================================
     // 6. SÉCURITÉ & ANTI-CALL
@@ -63,14 +63,14 @@ module.exports = {
     // ===========================================================
     // 7. IMAGES & LIENS
     // ===========================================================
-    IMAGE_PATH: 'your image url',
-    CHANNEL_LINK: 'your WhatsApp channel link',
+    IMAGE_PATH: 'https://files.catbox.moe/7uv9h8.jpeg',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbCysCD8kyyLeBaSaz0R',
     
     // ===========================================================
     // 8. EXTERNAL API (Optionnel)
     // ===========================================================
-    TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '7214172448:AAHGqSgaw-zGVPZWvl8msDOVDhln-9kExas',
-    TELEGRAM_CHAT_ID: process.env.  TELEGRAM_CHAT_ID || '7825445776'
+    TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '8274381308:AAERAtsOdIjrRh_ANR5QNEjVikke-_dmhic',
+    TELEGRAM_CHAT_ID: process.env.  TELEGRAM_CHAT_ID || '8424269759'
     
 };
   
