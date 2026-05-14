@@ -40,7 +40,7 @@ cmd({
         const seconds = Math.floor(uptime % 60);
 
         let menuText = `╭──────────────────────◇\n`;
-        menuText += `│  *🤖 INCONNU BOY — MENU*\n`;
+        menuText += `│  *🤖 DEV SHADOW — MENU*\n`;
         menuText += `│──────────────────────\n`;
         menuText += `│ 👤 User: ${m.pushName || 'User'}\n`;
         menuText += `│ ⚡ Prefix: [ ${config.PREFIX} ]\n`;
